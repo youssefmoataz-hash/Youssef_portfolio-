@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: youssef-moataz-portfolio
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health

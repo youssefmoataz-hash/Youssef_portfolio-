@@ -1,0 +1,7 @@
+.git
+.nuget-home
+.nuget-packages
+bin
+obj
+data
+*.zip

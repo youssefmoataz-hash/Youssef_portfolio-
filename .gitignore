@@ -1,0 +1,7 @@
+bin/
+obj/
+publish-check/
+data/contact-messages.json
+data/contact-messages.json.tmp
+.nuget-home/
+.nuget-packages/
